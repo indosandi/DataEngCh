@@ -1,6 +1,6 @@
 # DataEngCh
 
-Source code intended to solve code challenge of insight data engineering. All main code is inside src folder. There are 4 main filse and the files is structured with simple package so that it is easier to be reviewed.
+Source code intended to solve code challenge of insight data engineering. All main code is inside src folder. There are 4 main files and the files are structured with simple package so that it is easier to be reviewed.
 
 ### Library
 I am using java library to handle JSON file. The jar "json-simple-1.1.1.jar" is included inside src/lib folder. Basically by downloading / cloning repo, all library is included and no need to download it from separate server. However, incase it were needed, I got the package from https://code.google.com/archive/p/json-simple/ 
